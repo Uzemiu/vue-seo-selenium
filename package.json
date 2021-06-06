@@ -2,9 +2,9 @@
   "name": "vue-seo-selenium",
   "version": "1.0.0",
   "description": "",
-  "main": "spider.js",
+  "main": "server.js",
   "scripts": {
-    "test": "node spider.js https://neptu.cn"
+    "server": "node server.js"
   },
   "keywords": [],
   "author": "",
