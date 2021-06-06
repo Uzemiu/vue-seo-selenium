@@ -1,0 +1,16 @@
+{
+  "name": "vue-seo-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spider.js",
+  "scripts": {
+    "test": "node spider.js https://neptu.cn"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  }
+}
